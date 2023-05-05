@@ -1,0 +1,358 @@
+{
+	"BUILD_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/command.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_command.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/common.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_common.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/packet.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_packet.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/replacement.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_replacement.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_common.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_gc_common.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_game_event.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_gc_game_event.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_geometry.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_gc_geometry.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_referee_message.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_gc_referee_message.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_config.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_config.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_control.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_control.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_custom_erforce_robot_spec.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_custom_erforce_robot_spec.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_error.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_error.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_robot_control.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_robot_control.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_robot_feedback.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_robot_feedback.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_synchronous.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_simulation_synchronous.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_detection.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_vision_detection.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_detection_tracked.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_vision_detection_tracked.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_geometry.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_vision_geometry.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_wrapper.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_vision_wrapper.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_wrapper_tracked.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_vision_wrapper_tracked.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_visualization.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_ssl_visualization.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_command.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_vssref_command.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_common.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_vssref_common.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_placement.pb.h",
+			"MU",
+			"VYXUUNJJZC/moc_vssref_placement.pb.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/protobufs.h",
+			"MU",
+			"JUPPP6GZIC/moc_protobufs.cpp",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen/moc_predefs.h",
+			"MU",
+			"GR4S6JIS36/moc_moc_predefs.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs",
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/build",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/CMakeFiles/protobufs_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/qt/6.5.0/gcc_64/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/qt/6.5.0/gcc_64/./libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/CMakeFiles/protobufs_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/command.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/common.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/packet.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/replacement.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_common.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_game_event.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_geometry.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_gc_referee_message.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_config.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_control.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_custom_erforce_robot_spec.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_error.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_robot_control.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_robot_feedback.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_simulation_synchronous.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_detection.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_detection_tracked.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_geometry.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_wrapper.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_vision_wrapper_tracked.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/ssl_visualization.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_command.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_common.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/include/protobufs/pb/vssref_placement.pb.cc",
+			"MU",
+			null
+		],
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/protobufs/protobufs_autogen/mocs_compilation.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
