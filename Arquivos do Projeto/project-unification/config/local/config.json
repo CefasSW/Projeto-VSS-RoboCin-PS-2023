@@ -1,0 +1,158 @@
+{
+  "MainWindow": {
+    "Acting": {
+      "ParametersDialog": {
+        "FIRASimComm": {
+          "IP": {
+            "Value": "127.0.0.1"
+          },
+          "Port": {
+            "Value": "20011"
+          },
+          "Replacement": {
+            "Enable": {
+              "Conditional": {
+                "true": {
+                  "Robot Angle": {
+                    "Value": "0.00"
+                  }
+                }
+              },
+              "Value": "false"
+            }
+          }
+        }
+      },
+      "comboBox": "FIRASimComm"
+    },
+    "Robot00": {
+      "Processing 00": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot01": {
+      "Processing 01": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot02": {
+      "Processing 02": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot03": {
+      "Processing 03": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot04": {
+      "Processing 04": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot05": {
+      "Processing 05": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot06": {
+      "Processing 06": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot07": {
+      "Processing 07": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot08": {
+      "Processing 08": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot09": {
+      "Processing 09": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Robot10": {
+      "Processing 10": {
+        "ParametersDialog": {
+          "CustomPlayer": {
+          }
+        },
+        "comboBox": "CustomPlayer"
+      }
+    },
+    "Vision": {
+      "ParametersDialog": {
+        "FIRASimReceiver": {
+          "AttackSide": {
+            "Value": "Right"
+          },
+          "Draw": {
+            "CIninho": {
+              "Value": "true"
+            },
+            "Field Markings": {
+              "Value": "false"
+            }
+          },
+          "INet": {
+            "Value": "lo"
+          },
+          "IP": {
+            "Value": "224.5.23.2"
+          },
+          "Port": {
+            "Value": "10002"
+          },
+          "TeamColor": {
+            "Value": "Yellow"
+          }
+        }
+      },
+      "comboBox": "FIRASimReceiver"
+    }
+  }
+}
