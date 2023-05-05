@@ -1,0 +1,81 @@
+{
+	"BUILD_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/libtorch_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/include/libtorch/libtorch.h",
+			"MU",
+			"7JQTOA4UTI/moc_libtorch.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/libtorch_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/libtorch_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch",
+		"/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/build",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/libtorch_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/CMakeFiles/libtorch_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/qt/6.5.0/gcc_64/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/qt/6.5.0/gcc_64/./libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "/home/pedro/Documentos/Robocin/repositorio project-unification/project-unification/libs/libtorch/CMakeFiles/libtorch_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : [],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

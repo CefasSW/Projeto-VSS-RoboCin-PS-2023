@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibtorch.a CMakeFiles/libtorch.dir/libtorch_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib liblibtorch.a
