@@ -1,0 +1,17 @@
+Os arquivos realmente modificados para o projeto foram 
+
+CustomPlayer.cpp
+CustomPlayer.h
+
+Ambos se encontram facilmente acessíveis na pasta "Cópia dos arquivos modificados"
+
+A localização deles no conjunto completo de arquivos é a pasta:
+.../Arquivos do Projeto/project-unification/src/Modules/Processing/CustomPlayer
+
+Os demais arquivos são semelhantes aos do repositório
+"project-unification"
+
+
+
+
+
