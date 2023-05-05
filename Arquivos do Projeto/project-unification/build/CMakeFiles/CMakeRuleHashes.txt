@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+27780b0445ce7e809801b9f1ae10f1bf ../bin/CMakeFiles/project-unification_autogen
+f6d9a7a5b041d99b73233649f62636cd ../libs/libtorch/CMakeFiles/libtorch_autogen
+30c791551db77e8f4480cdb5009b125c ../libs/protobufs/CMakeFiles/protobufs_autogen
+1a79cfe3fb2854f7373428d7c7f7e8e8 ../libs/soccer-common/bin/test/TestField/CMakeFiles/TestField_autogen
+64322584f73fce2540e1d4b7463901e2 ../libs/soccer-common/bin/test/TestGeometry/CMakeFiles/TestGeometry_autogen
+56b477dc0e7b5519f63a4348dd935a51 ../libs/soccer-common/bin/test/TestMagicEnum/CMakeFiles/TestMagicEnum_autogen
+64e278373553d38dbdafc21c17576784 ../libs/soccer-common/bin/test/TestParameters/CMakeFiles/TestParameters_autogen
+a71233f7eb5ca6daebcdc84bfcca85c6 ../libs/soccer-common/bin/test/TestUtils/CMakeFiles/TestUtils_autogen
+3a589c14b3428417f5c9bdb138ad0d6a ../libs/soccer-common/lib/CMakeFiles/soccer-common-documentation
+01d4c534acd828e4a1b6ce5e287cf440 ../libs/soccer-common/lib/CMakeFiles/soccer-common_autogen
